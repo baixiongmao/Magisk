@@ -24,7 +24,7 @@
 	url = https://github.com/topjohnwu/mincrypt.git
 [submodule "pcre"]
 	path = native/jni/external/pcre
-	url = https://android.googlesource.com/platform/external/pcre
+	url = https://mirrors.tuna.tsinghua.edu.cn/git/AOSP/platform/external/pcre
 [submodule "xhook"]
 	path = native/jni/external/xhook
 	url = https://github.com/iqiyi/xHook.git
